@@ -1,4 +1,10 @@
 # 2 užduotis
+##V2.0
+### Kas įvykdyta?
+1. Sukurta Doxygen dokumentacija;
+2. Cmake paruoštas testų vykdymui;
+3. Įgyvendinti google test'ai.
+
 ## V1.5
 ### Apie
 Vietoj turimos student klasės sukurtos dvi: bazinė (abstrakti) ,,zmogus" klasė, kuri yra skirta bendrai aprašyti žmogų, ir jos išvestinė klasė student. Klasė ,,zmogus" yra abstrakčioji, todėl negalima sukurti žmogaus tipo objektų. Priešingas variantas yra su ,,student" klase. 
