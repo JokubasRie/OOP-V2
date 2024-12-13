@@ -40,6 +40,10 @@ TEST(SortingTest, SortsByName) {
 }
 
 ```
+### Įvykdyti testai
+
+![image](https://github.com/user-attachments/assets/2838665a-d25c-41a8-8bfc-3ff246fa4d80)
+
 
 ## V1.5
 ### Apie
