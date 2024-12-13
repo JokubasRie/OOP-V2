@@ -44,7 +44,8 @@ TEST(SortingTest, SortsByName) {
 
 ![image](https://github.com/user-attachments/assets/2838665a-d25c-41a8-8bfc-3ff246fa4d80)
 
-
+### Išvada
+- Atlikti trys testai bei jie visi - sėkmingi.
 ## V1.5
 ### Apie
 Vietoj turimos student klasės sukurtos dvi: bazinė (abstrakti) ,,zmogus" klasė, kuri yra skirta bendrai aprašyti žmogų, ir jos išvestinė klasė student. Klasė ,,zmogus" yra abstrakčioji, todėl negalima sukurti žmogaus tipo objektų. Priešingas variantas yra su ,,student" klase. 
